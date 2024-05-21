@@ -96,7 +96,7 @@ A more detailed set of evaluation results showing also the precission-recall cur
 
 ## Notebook
 
-Try the Jupyter notebook `CervicalMucusCV.ipynb` for a step-by-step guide and visualization of the model results.
+Try the Jupyter notebook [`CervicalMucusCV.ipynb`](./CervicalMucusCV.ipynb) for a step-by-step guide and visualization of the model results.
 
 ## Author
 

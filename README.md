@@ -1,5 +1,7 @@
 # Cervical Mucus AI Model
 
+A deep learning computer vision model to predict the fertility status of women based on their cervical mucus images.
+
 ## The Project
 
 The goal of this model is to generate a positive impact on couples seeking pregnancy, through the study of the fertile window of women based on the recognition of Images through Artificial Intelligence techniques, as well as through studies of the affectation of various fertility factors in couples.

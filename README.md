@@ -103,3 +103,7 @@ Try the Jupyter notebook [`CervicalMucusCV.ipynb`](./CervicalMucusCV.ipynb) for 
 ## Author
 
 This model was created by [Luis Sancho](https://github.com/luissancho).
+
+## Citation
+
+If you want to use or mention this code, please cite it according to [CITATION.cff](CITATION.cff).
